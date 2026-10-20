@@ -1,4 +1,3 @@
-test14 14
 Permission for codebuild role :
 
 
